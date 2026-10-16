@@ -1,2 +1,2 @@
 # calculator-utils
-Simple calculator utility library
+Simple calculator utility library.
