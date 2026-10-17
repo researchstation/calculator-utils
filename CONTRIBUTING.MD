@@ -11,10 +11,20 @@ readability, and test coverage.
 
 ## Getting Started
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Open a pull request
+You will need Git and a GitHub account. Before making changes, review the
+README and the existing project files for any setup instructions.
+
+1. Fork this repository on GitHub.
+2. Clone your fork and change into the project directory.
+3. Create a branch for your work, such as `fix-calculation`.
+4. Make a focused change that addresses one issue.
+5. Run the relevant tests, if the project provides them. Add or update tests
+   when changing functionality.
+6. Review your changes with `git diff` and commit them.
+7. Push your branch to your fork and open a pull request against `main`.
+
+In your pull request, explain what changed, why it was needed, and how you
+verified it. If you could not run tests, say so and explain why.
 
 ## Code Style
 
